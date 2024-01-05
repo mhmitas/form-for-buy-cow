@@ -1,0 +1,25 @@
+
+#searchinput{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 900;
+    background-color: rgb(115, 66, 229);
+}
+#box{
+    font-size: 17px;
+}
+
+.redcow{
+    font-size: 20px;
+    font-weight: 800;
+    margin: 80px;
+    width: 450px;
+    height: 600px;
+    border: 2px solid;
+    padding: 29px;
+    box-shadow: 1px 1px 10px gray;
+    background-color: #edf4f0;
+}
+#cowimg{
+    width: 450px;
+}
