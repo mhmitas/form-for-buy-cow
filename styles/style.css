@@ -12,14 +12,33 @@
 .redcow{
     font-size: 20px;
     font-weight: 800;
-    margin: 80px;
-    width: 450px;
-    height: 600px;
+    margin: 80px auto;
+    width: 45%;
+    /* height: 100%; */
     border: 2px solid;
     padding: 29px;
     box-shadow: 1px 1px 10px gray;
     background-color: #edf4f0;
 }
 #cowimg{
-    width: 450px;
+    width: 100%;
+}
+form input, textarea{
+    width: 100%;
+}
+
+.submit{
+    width: 100px;
+    height: 40px;
+    font-size: large;
+    font-weight: 700;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+    border-radius: 8px;
+    
+}
+.submit:hover{
+    background-color: #04AA6D;
+    border: 3px solid yellow;
 }
